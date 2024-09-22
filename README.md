@@ -1,7 +1,5 @@
 # Guide to Vijil.ai's LLM Evaluations
 
-# Vijil.ai
-
 ## Building Trustworthy AI Agents for the Enterprise
 
 In an era where AI systems are becoming integral to business operations, ensuring their reliability and trustworthiness is critical. This is the mission of Vijil.ai, a Menlo Park-based startup, which recently emerged from stealth mode with $6 million in seed funding from Mayfield’s AI Start fund and Google’s Gradient Ventures. Led by Vin Sharma and a team of engineering leaders from AWS who previously built large-scale AI systems like Amazon SageMaker and Bedrock, Vijil.ai is focused on addressing a fundamental problem: how to build and deploy AI agents that enterprises can trust.
