@@ -143,4 +143,3 @@ As generative AI continues to grow, trust is becoming a top priority for enterpr
 ## The Vision and the Future
 
 Vijil’s long-term goal is to create a trusted operating system for the development and deployment of AI agents. The startup envisions a future where cognitive AI assistants work seamlessly with humans to automate tasks while maintaining the highest standards of security and ethical performance. By partnering with enterprise customers and academic researchers, Vijil is contributing to open-source projects and driving innovation in AI safety and trust.
-![image](https://github.com/user-attachments/assets/ae335fd3-9950-49b7-a28b-9ec057e114ba)
