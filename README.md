@@ -1,6 +1,8 @@
 # Guide to Vijil.ai's LLM Evaluations
 
-## 1.	Building Trustworthy AI Agents for the Enterprise
+# Vijil.ai
+
+## Building Trustworthy AI Agents for the Enterprise
 
 In an era where AI systems are becoming integral to business operations, ensuring their reliability and trustworthiness is critical. This is the mission of Vijil.ai, a Menlo Park-based startup, which recently emerged from stealth mode with $6 million in seed funding from Mayfield’s AI Start fund and Google’s Gradient Ventures. Led by Vin Sharma and a team of engineering leaders from AWS who previously built large-scale AI systems like Amazon SageMaker and Bedrock, Vijil.ai is focused on addressing a fundamental problem: how to build and deploy AI agents that enterprises can trust.
 
@@ -20,7 +22,7 @@ One of Vijil’s key differentiators is its ability to scale trust evaluations. 
 
 Vijil’s evaluation service is built on four key components: detectors, probes, scenarios, and harnesses.
 
-<img width="273" alt="image" src="https://github.com/user-attachments/assets/1e45022d-8531-4bd4-a11b-7850b6c6eaf0">
+   <img width="273" alt="image" src="https://github.com/user-attachments/assets/1e45022d-8531-4bd4-a11b-7850b6c6eaf0">
 
  
 At the lowest level, detectors scan model outputs for undesirable features, like identifying fake Python packages. If such features are detected, they register as successful attacks on the model. 
@@ -53,13 +55,13 @@ Here is a step-by-step guide to help you get started:
 5.1 Create an Account and Access the Platform
 Navigate to https://score.vijil.ai/ and sign up for an account. After verifying the account creation, contact the team for access. 
 
-      <img width="90" alt="image" src="https://github.com/user-attachments/assets/65635dac-a622-429c-9ce5-420c98a42972">
+   <img width="90" alt="image" src="https://github.com/user-attachments/assets/65635dac-a622-429c-9ce5-420c98a42972">
 
 
 After the user have been granted access, successful login takes the user to
 the homepage as shown below:
 
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/e0d5bc10-e76a-4ad0-b35b-7d4ae4e98ecb">
+   <img width="365" alt="image" src="https://github.com/user-attachments/assets/e0d5bc10-e76a-4ad0-b35b-7d4ae4e98ecb">
 
      
 
@@ -108,7 +110,7 @@ User can select one or more dimensions from the menu.
 Each dimension consists of one or more scenario. For example, Fairness dimension consists of three scenarios: Question Answering Bias, Gender Income Bias, Professional Bias. Here is a view of Evaluations tab taken from https://score.vijil.ai/evaluations/create-evaluation
 
         
-  <img width="435" alt="image" src="https://github.com/user-attachments/assets/a52d0f67-83f7-47cb-adba-610295e00bef">
+   <img width="435" alt="image" src="https://github.com/user-attachments/assets/a52d0f67-83f7-47cb-adba-610295e00bef">
         
 
 Once all the parameters are selected, user can go ahead and create the evaluations. Depending on selected parameters, it can take from few seconds to few minutes to complete the evaluation. User can also track the evaluations progress while its running.
@@ -116,7 +118,7 @@ Once all the parameters are selected, user can go ahead and create the evaluatio
 5.4 Analyzing Evaluation Results
 Upon completion of evaluation, user can see the evaluation report as below. Here I only ran the evaluation for dimensions Privacy, Hallucination, Performance, and Ethics dimensions. 
 
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/0d380313-7a1a-4698-aaf9-bc2f242df58d">
+   <img width="468" alt="image" src="https://github.com/user-attachments/assets/0d380313-7a1a-4698-aaf9-bc2f242df58d">
 
  
 5.4.1 Evaluations deep dive
